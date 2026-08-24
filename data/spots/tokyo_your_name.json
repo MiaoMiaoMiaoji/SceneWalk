@@ -1,0 +1,16 @@
+{
+  "id": "tokyo-suga-shrine-01",
+  "title": "须贺神社阶梯",
+  "source": {
+    "type": "anime",
+    "name": "《你的名字。》"
+  },
+  "location": {
+    "country": "Japan",
+    "city": "Tokyo",
+    "coordinates": {
+      "latitude": 35.685382,
+      "longitude": 139.722883
+    }
+  }
+}
