@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "name": "Fontana di Trevi",
+    "city": "Rome",
+    "country": "Italy",
+    "category": "Movie Scene",
+    "work": "Roman Holiday (1953) / La Dolce Vita (1960)",
+    "coordinates": {
+      "latitude": 41.9009,
+      "longitude": 12.4833
+    },
+    "description": "The iconic baroque fountain where Audrey Hepburn got her haircut and Anita Ekberg waded through the water.",
+    "photo_tip": "Visit at sunrise to capture the golden light reflecting on the water without the tourist crowds."
+  },
+  {
+    "id": 2,
+    "name": "Kamilo Beach (Papakōlea Approach)",
+    "city": "Hawaii",
+    "country": "USA",
+    "category": "Celebrity Spot",
+    "work": "BTS 'For Youth' Photo Session Location",
+    "coordinates": {
+      "latitude": 19.0321,
+      "longitude": -155.6152
+    },
+    "description": "A breathtaking coastal landscape famed for its raw volcanic textures and deep blue Pacific horizons.",
+    "photo_tip": "Use a wide-angle lens during the golden hour to frame the dramatic volcanic rocks against the waves."
+  },
+  {
+    "id": 3,
+    "name": "Timberline Lodge",
+    "city": "Government Camp, Oregon",
+    "country": "USA",
+    "category": "Movie Scene",
+    "work": "The Shining (1980)",
+    "coordinates": {
+      "latitude": 45.3311,
+      "longitude": -121.7111
+    },
+    "description": "The snow-capped mountain lodge used for the exterior shots of the infamous Overlook Hotel.",
+    "photo_tip": "Shoot from a low angle on the snow paths during twilight to evoke the mysterious atmosphere of the film."
+  },
+  {
+    "id": 4,
+    "name": "Notting Hill Travel Bookshop",
+    "city": "London",
+    "country": "UK",
+    "category": "Movie Scene",
+    "work": "Notting Hill (1999)",
+    "coordinates": {
+      "latitude": 51.5146,
+      "longitude": -0.2043
+    },
+    "description": "The charming blue-fronted bookstore that inspired the romantic meeting place of William Thacker and Anna Scott.",
+    "photo_tip": "Capture a street-level portrait framed by the iconic blue storefront sign."
+  },
+  {
+    "id": 5,
+    "name": "Café des Deux Moulins",
+    "city": "Paris",
+    "country": "France",
+    "category": "Movie Scene",
+    "work": "Amélie (2001)",
+    "coordinates": {
+      "latitude": 48.8839,
+      "longitude": 2.3341
+    },
+    "description": "The quintessential Montmartre brasserie where Amélie Poulain worked as a waitress.",
+    "photo_tip": "Sit by the window seat inside and order a crème brûlée to crack with a spoon for the perfect cinematic snapshot."
+  },
+  {
+    "id": 6,
+    "name": "Sukuragawa Riverside",
+    "city": "Kyoto",
+    "country": "Japan",
+    "category": "Celebrity Spot",
+    "work": "Taylor Swift 'Style' Music Video Backdrop Inspiration",
+    "coordinates": {
+      "latitude": 35.0116,
+      "longitude": 135.7681
+    },
+    "description": "A tranquil riverbank lined with weeping cherry blossoms, reflecting the poetic and cinematic moods of modern pop videos.",
+    "photo_tip": "Long exposure at dusk captures the soft movement of water beneath the neon-lit bridge lights."
+  },
+  {
+    "id": 7,
+    "name": "The High Line",
+    "city": "New York City",
+    "country": "USA",
+    "category": "Movie Scene",
+    "work": "Succession (TV Series) / Before Midnight vibe",
+    "coordinates": {
+      "latitude": 40.748,
+      "longitude": -74.0048
+    },
+    "description": "An elevated linear park built on a historic freight rail line, a favorite backdrop for modern cinematic urban walks.",
+    "photo_tip": "Incorporate the geometric industrial iron tracks into your leading lines looking towards the Hudson River."
+  },
+  {
+    "id": 8,
+    "name": "Snaefellsnes Peninsula Cliffside",
+    "city": "Arnarstapi",
+    "country": "Iceland",
+    "category": "Movie Scene",
+    "work": "The Secret Life of Walter Mitty (2013)",
+    "coordinates": {
+      "latitude": 64.7667,
+      "longitude": -23.6272
+    },
+    "description": "The sweeping, surreal volcanic plains and dramatic roads where Walter skates across Iceland.",
+    "photo_tip": "Use a drone or high vantage point to emphasize the winding road slicing through black lava fields."
+  },
+  {
+    "id": 9,
+    "name": "Joker Stairs",
+    "city": "Bronx, New York",
+    "country": "USA",
+    "category": "Movie Scene",
+    "work": "Joker (2019)",
+    "coordinates": {
+      "latitude": 40.8358,
+      "longitude": -73.9238
+    },
+    "description": "The steep public stairway connecting Shakespeare and Anderson Avenues where Arthur Fleck performs his chaotic dance.",
+    "photo_tip": "Shoot from the very bottom looking up to emphasize the oppressive verticality of the urban landscape."
+  },
+  {
+    "id": 10,
+    "name": "Ait Benhaddou",
+    "city": "Ouarzazate",
+    "country": "Morocco",
+    "category": "Movie Scene",
+    "work": "Gladiator (2000) / Game of Thrones (Yunkai)",
+    "coordinates": {
+      "latitude": 31.0461,
+      "longitude": -7.1292
+    },
+    "description": "A majestic clay-brick fortified village that serves as the ultimate historical film canvas for ancient cities.",
+    "photo_tip": "Capture across the riverbed during sunset when the clay architecture glows with deep terracotta hues."
+  },
+  {
+    "id": 11,
+    "name": "Matamata Green Hills",
+    "city": "Waikato",
+    "country": "New Zealand",
+    "category": "Movie Scene",
+    "work": "The Lord of the Rings Trilogy",
+    "coordinates": {
+      "latitude": -37.8721,
+      "longitude": 175.6829
+    },
+    "description": "The idyllic, rolling emerald pastures of the Shire, complete with round-doored hobbit holes built into the landscape.",
+    "photo_tip": "Frame your shot through the circular entryway of a hillside dwelling to capture the cozy interior details."
+  },
+  {
+    "id": 12,
+    "name": "Shibuya Sky",
+    "city": "Tokyo",
+    "country": "Japan",
+    "category": "Celebrity Spot",
+    "work": "Dua Lipa / The Weeknd Music Video Shoots",
+    "coordinates": {
+      "latitude": 35.6585,
+      "longitude": 139.7013
+    },
+    "description": "An open-air sky deck offering 360-degree views of the dizzying Tokyo skyline and the legendary intersection below.",
+    "photo_tip": "Stand directly on the glass corner edge at night to capture the infinite neon horizon blending into the darkness."
+  },
+  {
+    "id": 13,
+    "name": "Katz's Delicatessen",
+    "city": "New York City",
+    "country": "USA",
+    "category": "Movie Scene",
+    "work": "When Harry Met Sally (1989)",
+    "coordinates": {
+      "latitude": 40.7222,
+      "longitude": -73.9874
+    },
+    "description": "The bustling legendary kosher deli where Sally Albright famously proved a point to Harry Burns over lunch.",
+    "photo_tip": "Look for the sign hanging from the ceiling reading 'Where Harry met Sally... Hope you have what she had!' and frame it over your table."
+  },
+  {
+    "id": 14,
+    "name": "Hatley Castle",
+    "city": "Colwood, British Columbia",
+    "country": "Canada",
+    "category": "Movie Scene",
+    "work": "X-Men Series (Xavier's School for Gifted Youngsters)",
+    "coordinates": {
+      "latitude": 48.4344,
+      "longitude": -123.4728
+    },
+    "description": "A grand Edwardian castle estate with formal gardens that seamlessly doubles as a sanctuary for cinematic mutants.",
+    "photo_tip": "A symmetrical frontal shot from the edge of the manicured fountain lawns highlights its regal, academic scale."
+  },
+  {
+    "id": 15,
+    "name": "Park Hyatt New York (The Bar)",
+    "city": "New York City",
+    "country": "USA",
+    "category": "Celebrity Spot",
+    "work": "Timothée Chalamet Vogue Interview Spot",
+    "coordinates": {
+      "latitude": 40.7652,
+      "longitude": -73.9793
+    },
+    "description": "An upscale, sleek architectural marvel characterized by minimalist marble lines and low warm ambient lighting.",
+    "photo_tip": "Utilize the reflective marble tabletops to create moody dual-exposure silhouettes of your cocktail glassware."
+  },
+  {
+    "id": 16,
+    "name": "Gyeongbokgung Palace Detached Pavilion",
+    "city": "Seoul",
+    "country": "South Korea",
+    "category": "Movie Scene",
+    "work": "Kingdom (Netflix Series) / Various K-Dramas",
+    "coordinates": {
+      "latitude": 37.5796,
+      "longitude": 126.977
+    },
+    "description": "The elegant, quiet stone walkways flanking traditional Joseon dynasty structures surrounded by reflective lotus ponds.",
+    "photo_tip": "Wear traditional Hanbok to naturally match the timeless color palettes and scale of the wooden palace columns."
+  },
+  {
+    "id": 17,
+    "name": "Sidi Driss Hotel",
+    "city": "Matmata",
+    "country": "Tunisia",
+    "category": "Movie Scene",
+    "work": "Star Wars: Episode IV - A New Hope (Lars Homestead)",
+    "coordinates": {
+      "latitude": 33.5426,
+      "longitude": 9.9673
+    },
+    "description": "A traditional subterranean Berber troglodyte dwelling that became Luke Skywalker's iconic desert home on Tatooine.",
+    "photo_tip": "Shoot directly upwards from the center of the circular pit to balance the contrast of the underground mud walls against the blue sky."
+  },
+  {
+    "id": 18,
+    "name": "The Royal Pavilion Brightside",
+    "city": "Brighton",
+    "country": "UK",
+    "category": "Celebrity Spot",
+    "work": "Harry Styles 'As It Was' Outfit Inspiration & Press Walk",
+    "coordinates": {
+      "latitude": 50.8226,
+      "longitude": -0.1376
+    },
+    "description": "An exotic, Indo-Saracenic coastal palace with unique domes that adds a whimsical pop-art vibe to any scenic tour.",
+    "photo_tip": "Incorporate the surrounding vibrant green palace gardens to frame the geometric minarets in a playful, colorful composition."
+  },
+  {
+    "id": 19,
+    "name": "Bourne & Hollingsworth Buildings",
+    "city": "London",
+    "country": "UK",
+    "category": "Celebrity Spot",
+    "work": "Billie Eilish Acoustic Set Gathering Location",
+    "coordinates": {
+      "latitude": 51.5273,
+      "longitude": -0.1042
+    },
+    "description": "A greenhouse-inspired restaurant flooded with natural light, climbing ivy vines, and casual wrought iron furniture.",
+    "photo_tip": "Expose for the bright greenhouse windows to achieve a soft, hazy overexposed aesthetic popular in modern indie pop imagery."
+  },
+  {
+    "id": 20,
+    "name": "Villa del Balbianello",
+    "city": "Lake Como",
+    "country": "Italy",
+    "category": "Movie Scene",
+    "work": "Star Wars: Episode II / Casino Royale (2006)",
+    "coordinates": {
+      "latitude": 45.9644,
+      "longitude": 9.1983
+    },
+    "description": "A romantic terraced villa overlooking Lake Como, the location for Anakin and Padmé's secret wedding.",
+    "photo_tip": "Frame your shot beneath the leafy green arches of the loggia looking out into the deep blue lake waters."
+  }
+]
